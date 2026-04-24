@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Recall user name after turns",
+    "group": "Profile Recall",
+    "turns": [
+      "Xin chào, tôi tên là Tuấn.",
+      "Tôi đang làm lập trình viên.",
+      "Thời tiết Hà Nội hôm nay thế nào?",
+      "Tôi đang định đi chơi cuối tuần.",
+      "Nãy giờ mải nói chuyện, bạn có nhớ tôi tên là gì không?"
+    ],
+    "eval_hint": "Tuấn"
+  },
+  {
+    "id": 2,
+    "name": "Allergy conflict update",
+    "group": "Conflict update",
+    "turns": [
+      "Tôi bị dị ứng sữa bò.",
+      "Hôm trước tôi uống sữa là bị đau bụng.",
+      "À tôi nhầm, tôi bị dị ứng đậu nành chứ không phải sữa bò.",
+      "Tôi đang định đổi chế độ ăn.",
+      "Tóm lại tôi bị dị ứng với cái gì?"
+    ],
+    "eval_hint": "đậu nành"
+  },
+  {
+    "id": 3,
+    "name": "Update living location",
+    "group": "Conflict update",
+    "turns": [
+      "Tôi đang sống ở Đà Nẵng.",
+      "Ở đây khá yên bình.",
+      "Tháng trước tôi vừa chuyển nhà ra Hà Nội rồi.",
+      "Hà Nội đông hơn nhiều.",
+      "Hiện tại tôi đang ở thành phố nào?"
+    ],
+    "eval_hint": "Hà Nội"
+  },
+  {
+    "id": 4,
+    "name": "Recall favorite food",
+    "group": "Profile Recall",
+    "turns": [
+      "Món ăn yêu thích của tôi là bún chả.",
+      "Tôi rất thích đồ ăn truyền thống.",
+      "Hôm qua tôi ăn phở.",
+      "Tôi đang không biết ăn gì trưa nay.",
+      "Bạn gợi ý cho tôi món tôi thích nhất đi?"
+    ],
+    "eval_hint": "bún chả"
+  },
+  {
+    "id": 5,
+    "name": "Recall previous debug lesson",
+    "group": "Episodic Recall",
+    "turns": [
+      "Hôm qua tôi đã học cách fix lỗi Docker bằng cách đổi port.",
+      "Lúc đầu tôi không hiểu tại sao lỗi.",
+      "Sau đó tôi thử nhiều cách khác nhau.",
+      "Cuối cùng đổi port thì chạy được.",
+      "Hôm qua tôi dùng cách gì để fix lỗi Docker ấy nhỉ?"
+    ],
+    "eval_hint": "đổi port"
+  },
+  {
+    "id": 6,
+    "name": "Summarize past events",
+    "group": "Episodic Recall",
+    "turns": [
+      "Sáng nay tôi vừa đi họp dự án AI về.",
+      "Cuộc họp kéo dài khá lâu.",
+      "Sếp bảo dự án cần đẩy nhanh tiến độ.",
+      "Tôi cũng ghi lại một số việc cần làm.",
+      "Sáng nay tôi đã làm gì bạn nhớ không?"
+    ],
+    "eval_hint": "họp dự án AI"
+  },
+  {
+    "id": 7,
+    "name": "Retrieve FAQ chunk",
+    "group": "Semantic Retrieval",
+    "turns": [
+      "Tôi muốn hỏi về kiến thức chung.",
+      "Tôi đang học toán cơ bản.",
+      "Có một số công thức tôi hay quên.",
+      "Bạn có biết công thức tính diện tích hình chữ nhật là gì không?"
+    ],
+    "eval_hint": "Dài x Rộng"
+  },
+  {
+    "id": 8,
+    "name": "Retrieve specific fact",
+    "group": "Semantic Retrieval",
+    "turns": [
+      "Bạn cho tôi hỏi một thông tin địa lý.",
+      "Tôi đang ôn lại kiến thức phổ thông.",
+      "Châu Âu có nhiều quốc gia thú vị.",
+      "Thủ đô của nước Pháp là gì?"
+    ],
+    "eval_hint": "Paris"
+  },
+  {
+    "id": 9,
+    "name": "Token Budget / Trim",
+    "group": "Trim/Token budget",
+    "turns": [
+      "Đây là một đoạn text rất dài:",
+      "Tôi đang test hệ thống xử lý context.",
+      "Bạn có thấy đoạn text trước đó không?",
+      "Nó có vẻ khá dài đúng không?",
+      "Tôi vừa gửi cho bạn một đoạn text spam đúng không?"
+    ],
+    "eval_hint": "đúng"
+  },
+  {
+    "id": 10,
+    "name": "Cross-memory reasoning",
+    "group": "Mixed (Profile + Factual)",
+    "turns": [
+      "Tôi bị dị ứng đậu nành.",
+      "Tôi đang cố ăn uống lành mạnh hơn.",
+      "Hôm nay tôi xem menu quán nước.",
+      "Có nhiều lựa chọn khác nhau.",
+      "Nếu menu hôm nay có 'sữa đậu nành' và 'trà đá', tôi nên uống gì?"
+    ],
+    "eval_hint": "trà đá"
+  }
+]

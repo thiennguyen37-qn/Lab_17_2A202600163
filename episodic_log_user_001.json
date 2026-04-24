@@ -1,0 +1,127 @@
+[
+    {
+        "timestamp": "2026-04-24 11:52:02.553283",
+        "session_id": "session_01",
+        "summary": "User hỏi về toán học và cách thiết lập bộ nhớ."
+    },
+    {
+        "timestamp": "2026-04-24 12:21:22.715449",
+        "session_id": "session_01",
+        "summary": "User đã trò chuyện với AI và hoàn thành thử nghiệm Graph."
+    },
+    {
+        "timestamp": "2026-04-24 12:48:05.205571",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: thủ đô của Đức ?"
+    },
+    {
+        "timestamp": "2026-04-24 12:48:21.501555",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Một số thành phố lớn khác ?"
+    },
+    {
+        "timestamp": "2026-04-24 12:49:39.134948",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: KTM Tech3 ở mùa 2025 gồm những ai ?"
+    },
+    {
+        "timestamp": "2026-04-24 12:49:45.793778",
+        "session_id": "session_01",
+        "summary": "User đã kết thúc phiên làm việc."
+    },
+    {
+        "timestamp": "2026-04-24 13:56:56.569691",
+        "session_id": "session_01",
+        "summary": "User đã kết thúc phiên làm việc."
+    },
+    {
+        "timestamp": "2026-04-24 14:03:01.273187",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Tôi muốn hỏi về kiến thức chung."
+    },
+    {
+        "timestamp": "2026-04-24 14:03:04.734326",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Bạn có biết công thức tính diện tích hình chữ nhật là gì không?"
+    },
+    {
+        "timestamp": "2026-04-24 14:03:09.455610",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Bạn cho tôi hỏi một thông tin địa lý."
+    },
+    {
+        "timestamp": "2026-04-24 14:03:12.292306",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Thủ đô của nước Pháp là gì?"
+    },
+    {
+        "timestamp": "2026-04-24 14:06:46.365187",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Thời tiết Hà Nội hôm nay thế nào?"
+    },
+    {
+        "timestamp": "2026-04-24 14:08:10.985022",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Tôi muốn hỏi về kiến thức chung."
+    },
+    {
+        "timestamp": "2026-04-24 14:08:14.848069",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Bạn có biết công thức tính diện tích hình chữ nhật là gì không?"
+    },
+    {
+        "timestamp": "2026-04-24 14:08:19.470798",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Bạn cho tôi hỏi một thông tin địa lý."
+    },
+    {
+        "timestamp": "2026-04-24 14:08:21.943276",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Thủ đô của nước Pháp là gì?"
+    },
+    {
+        "timestamp": "2026-04-24 14:18:19.395639",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Tôi muốn hỏi về kiến thức chung."
+    },
+    {
+        "timestamp": "2026-04-24 14:18:23.555345",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Bạn có biết công thức tính diện tích hình chữ nhật là gì không?"
+    },
+    {
+        "timestamp": "2026-04-24 14:18:28.201064",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Bạn cho tôi hỏi một thông tin địa lý."
+    },
+    {
+        "timestamp": "2026-04-24 14:18:31.690905",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Thủ đô của nước Pháp là gì?"
+    },
+    {
+        "timestamp": "2026-04-24 14:25:02.769046",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Hà Nội đông hơn nhiều."
+    },
+    {
+        "timestamp": "2026-04-24 14:26:31.541236",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Tôi muốn hỏi về kiến thức chung."
+    },
+    {
+        "timestamp": "2026-04-24 14:26:47.972055",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Bạn có biết công thức tính diện tích hình chữ nhật là gì không?"
+    },
+    {
+        "timestamp": "2026-04-24 14:26:51.661720",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Bạn cho tôi hỏi một thông tin địa lý."
+    },
+    {
+        "timestamp": "2026-04-24 14:27:05.227546",
+        "session_id": "session_01",
+        "summary": "Đã giải đáp thông tin cho user về: Thủ đô của nước Pháp là gì?"
+    }
+]
